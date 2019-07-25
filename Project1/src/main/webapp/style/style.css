@@ -1,0 +1,12 @@
+#form_login {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.content {
+    display: grid;
+    background-color: bisque;
+    height: 100vh;
+    place-items: center;
+}
